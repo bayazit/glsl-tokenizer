@@ -1,5 +1,5 @@
 {
-  "name": "glsl-tokenizer",
+  "name": "glsl-tokenizer-fork-for-gm",
   "version": "2.1.5",
   "description": "r/w stream of glsl tokens",
   "main": "string.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gl-modules/glsl-tokenizer.git"
+    "url": "git://github.com/bayazit/glsl-tokenizer.git"
   },
   "keywords": [
     "glsl",
